@@ -1,9 +1,7 @@
 <h1 align="center">Hi there👋, I'm Vlad</h1>
 <h3 align="center">Passionate about automating routine tasks.</h3>
 
-- 🌱 I’m currently learning **Data engineering**
-
-- 💻 Working as **Automation Developer**
+- 💻 Working as **Data engineering** and **Automation Developer**
 
 - 📫 How to reach me **vlad.teteruk.py@gmail.com**
 
